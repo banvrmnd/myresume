@@ -1,0 +1,23 @@
+body {
+  background-color:lightpink; font-family:monospace;
+  border: solid;
+}
+
+h1 {
+  text-decoration: underline overline; font-size: 40px;
+  text-indent: 10px;
+}
+
+h2 {
+  background-color: black; color: white; font-size: 30px;
+  text-indent: 10px;
+}
+
+h3 {
+  text-decoration: underline; font-size: 25px;
+  text-indent: 10px;
+}
+
+p {
+  color: darkblue; font-size: 20px; text-indent: 35px;
+}
